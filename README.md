@@ -25,7 +25,7 @@ The platform is designed around real-world manufacturing use cases including:
 - Executive KPI Reporting
 - AI-ready Feature Engineering
 
-  ![Dashboard](screenshots/01_dashboard_home.png)
+  ![Executive Dashboard](screenshots/01_dashboard_home.png)
 
 ---
 
