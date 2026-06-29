@@ -308,6 +308,8 @@ streamlit run app.py
 screenshots/
 
 dashboard.png
+<img width="2840" height="1524" alt="image" src="https://github.com/user-attachments/assets/c13916f1-cbad-4177-a1a0-114932a484e8" />
+
 
 executive_dashboard.png
 
