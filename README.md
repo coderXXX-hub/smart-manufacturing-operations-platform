@@ -306,17 +306,15 @@ streamlit run app.py
 
 # Sample Dashboard
 
-```
-screenshots/
+![Production Metrics](screenshots/02_production_metrics.png)
 
-dashboard.png
+## Machine Health
 
-executive_dashboard.png
+![Machine Health](screenshots/03_machine_health.png)
 
-machine_health.png
+## Maintenance Alerts
 
-failure_analysis.png
-```
+![Maintenance Alerts](screenshots/04_maintenance_alerts.png)
 
 ---
 
