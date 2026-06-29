@@ -35,3 +35,4 @@ dashboard/data/
 
 # Secrets
 .env
+quarantine/
